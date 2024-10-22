@@ -1,4 +1,103 @@
-Hello git
+Hello git command:
+
+------------------------
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 ~/Desktop (master)
+$ pwd
+/c/Users/Pheakkorny/Desktop
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 ~/Desktop (master)
+$ cd d:
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d
+$ pwd
+/d
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d
+$ ls
+'$RECYCLE.BIN'/   'OOP y4 2024-2025'/           'Web y4 2024-2025'/
+ Database2024/    'Srey Oun'/                    expenses.txt
+'Linux y4 2024'/  'System Volume Information'/
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d
+$ D;
+bash: D: command not found
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d
+$ cd ..
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /
+$ D:
+bash: D:: command not found
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /
+$ cd d
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d
+$ ls
+'$RECYCLE.BIN'/  'Linux y4 2024'/     'System Volume Information'/
+ Database2024/   'OOP y4 2024-2025'/  'Web y4 2024-2025'/
+ Git/            'Srey Oun'/           expenses.txt
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d
+$ cd Git
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git
+$ ls
+git1/
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git
+$ cd git1
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1
+$ touch index.html
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1
+$ ls
+index.html
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1
+$ touch readme.txt
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1
+$ mkdir api
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1
+$ cd api
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1/api
+$ cd ..
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1
+$ mkdir web_react
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1
+$ cd web_react
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1/web_react
+$ App.js
+bash: App.js: command not found
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1/web_react
+$ touch App.js
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1/web_react
+$ ls
+App.js
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1/web_react
+$ cd ..
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1
+$ pwd
+/d/Git/git1
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1
+$ code .
+
+Pheakkorny@DESKTOP-HPO5MFS MINGW64 /d/Git/git1
+$
+-------------------------------------------
+
 PS D:\Git\git1> pwd
 
 Path            
